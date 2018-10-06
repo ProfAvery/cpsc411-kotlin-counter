@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Counter</string>
+    <string name="zero_value">0</string>
+    <string name="increment_button">Increment</string>
+</resources>
